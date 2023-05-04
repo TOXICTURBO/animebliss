@@ -151,8 +151,8 @@ const AnimePlayerPage = () => {
                 <div>
                   <RWebShare
                     data={{
-                      text: `Watch ${anime.title.english} on Animebliss`,
-                      url: `https://animebliss.vercel.app/watch/${id}`,
+                      text: `Watch ${anime.title.english} on TurboAnime`,
+                      url: `https://turboanime.vercel.app/watch/${id}`,
                       title: anime.title.english,
                     }}
                   >
