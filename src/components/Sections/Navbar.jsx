@@ -86,7 +86,7 @@ const Navbar = () => {
             style={{ color: "white", padding: 0 }}
             alt=""
           />
-          <h3 className="brand-title">Animebliss</h3>
+          <h3 className="brand-title">TurboAnime</h3>
         </div>
         <FontAwesomeIcon
           className="magnify-icon"
