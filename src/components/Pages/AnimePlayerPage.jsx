@@ -152,7 +152,7 @@ const AnimePlayerPage = () => {
                   <RWebShare
                     data={{
                       text: `Watch ${anime.title.english} on TurboAnime`,
-                      url: `https://turboanime.vercel.app/watch/${id}`,
+                      url: `https://turboanime.onrender.com/watch/${id}`,
                       title: anime.title.english,
                     }}
                   >
