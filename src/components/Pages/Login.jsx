@@ -79,7 +79,7 @@ const Login = ({ setIsLoggedIn }) => {
             clientId={clientId}
             onSuccess={onSuccess}
             onFailure={onFailure}
-            redirectUri="https://turboanime.vercel.app/"
+            redirectUri="https://turboanime.onrender.com"
             cookiePolicy={"single_host_origin"}
           />
           <button>
